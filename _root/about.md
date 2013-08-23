@@ -1,6 +1,7 @@
 ---
-title : About Me
-description:
+title: About Me
+description: null
+published: true
 ---
 
-All about me =)
+Berg Plumbing and Heating is a family-owned business specializing in a full range of plumbing and heating services. We offer both commercial and residential services. 
