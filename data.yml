@@ -1,15 +1,12 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Berg Plumbing & Heating
+tagline: 
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Berg Plumbing & Heating
+  email : bergplumbingandheating@yahoo.com
+  github : whebbee
+  twitter : 
+
 
 navigation :
-  - archive
-  - tags
-  - categories
-  - pages
-  - about
+  - services
+  - about us
